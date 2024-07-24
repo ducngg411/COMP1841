@@ -13,7 +13,8 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="jokes.php">Jokes List</a></li>
             <!-- <li><a href="addjoke.php">Add a new joke</a></li> -->
-            <li><a href="admin/jokes.php">Admin</a></li>
+            <!-- <li><a href="admin/jokes.php">Admin</a></li> -->
+            <li><a href="logout.php">Log out</a></li>
         </ul>
     </nav>
     <main>

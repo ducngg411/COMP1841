@@ -13,6 +13,7 @@
             <li><a href="jokes.php">Jokes List</a></li>
             <li><a href="addjoke.php">Add a new joke</a></li>
             <li><a href="../index.php">Public site</a></li>
+            <li><a href="../logout.php">Log out</a></li>
             <!-- <li><a href="addjoke.php">Add a new joke</a></li> -->
         </ul>
     </nav>
