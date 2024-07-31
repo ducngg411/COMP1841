@@ -10,12 +10,13 @@
     <header id="admin"><h1>Internet Joke Database</h1></header>
     <nav>
         <ul>
-            <li><a href="jokes.php">Jokes List</a></li>
-            <li><a href="addjoke.php">Add a new joke</a></li>
-            <li><a href="../index.php">Public site</a></li>
-            <li><a href="../logout.php">Log out</a></li>
+            <li><a href="jokes.php">Manage Jokes</a></li>
+            <li><a href="authors.php">Manage authors</a></li>
+            <li><a href="login/logout.php">Public site/Logout</a></li>
+            <!-- <li><a href="../logout.php">Log out</a></li> -->
+            
             <!-- <li><a href="addjoke.php">Add a new joke</a></li> -->
-        </ul>
+        </ul> 
     </nav>
     <main>
         <?=$output?>

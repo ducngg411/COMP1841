@@ -40,3 +40,11 @@
     </form>
 </body>
 </html>
+
+            <td class='td-modify'>
+                <form action='deletestudents.php'>
+                    <input type='hidden' name='mem_id' value='<?=$row['mem_id']?>'>
+                    <input type='submit' class='action_btn action_btn--delete'value='Delete'>
+                </form>
+                <a href='deletestudents.php' class='action_btn action_btn--edit'>Edit</a></td>
+            </td>
